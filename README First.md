@@ -4,6 +4,7 @@
 BCode version 1.4 is needed for the calculations of the excess burden and disease burden. 
 Excel was used to calculate the incidence, make sheets to load in the BCode toolkit and create the figures. 
 
+# Branch "Burden calculation documents"
 # Sheets to load into the BCode toolkit
 In order to get the results from the BCode toolkit, one must load "models" into the toolkit.
 Be sure that you load each model separetely and than run the model. 
