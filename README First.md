@@ -1,4 +1,5 @@
 # ExcessBurden
+Read this file first before you start.
 
 # Needed on your computer before you start:
 BCode version 1.4 is needed for the calculations of the excess burden and disease burden. 
@@ -21,8 +22,14 @@ The excess burden is thus calculated as the burden of resistant bacteria - the b
 In other words, the burden results of "DONE_TOOLKIT_IT-resist_params_w_ITALY_inc" - "DONE_TOOLKIT_IT-susc_params_w_ITALY_inc". 
 We also did this in an Excel sheet. This sheet is named "Excess calculations" and for the age independent analysis "Excess calculations age indepeent".
 
+# Branch "Incidence Calculation"
+# Data used to calculate the incidence in Italy
+The incidence was calculated in an excel sheet. The steps have been described in the paper. 
+The steps are also described briefly in the excel file "Incidence calculation Italy based on population 1.25 mil 57271"
+
+# Branch "Main"
 # Figures 2, 3, 4, 5, 6, 7
 The Excel document "Final Figures 2-7 05 01 2022" contains figures 2 to 7 and the data needed to create the figures. 
 
-# Data used to calculate the incidence in Italy
-The incidence was calculated in an excel sheet. The steps have been described in the paper. 
+# ReadMe First
+Thank you for reading this file first and good luck!
